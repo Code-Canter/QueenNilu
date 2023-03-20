@@ -18,13 +18,13 @@ const chalk = require('chalk')
 
 
 //👇 if you need seen massage use " true "
-global.READ_MASSAGE = 'true'
+global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'false'
 // You Bots Owner Number 
-global.owner = ['254792052669'] 
+global.owner = ['2348115046415'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© TELVIN BOTS ²⁰²³'
+global.cap = '© BOTS ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
@@ -36,7 +36,7 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  'SKY NET V3' 
 //👇 Your name
-global.ownernma =  'TELVIN' 
+global.ownernma =  'TUNZKID' 
 //👇 Sticker package name
 global.packname =  'SKYNET PACKS' 
 //👇 Sticker Author Name
@@ -49,13 +49,13 @@ global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 global.OWNER_REACT =  '🐼'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
-global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
-//👇 URL button 2 name
-global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
-//👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/Telviaz/'
-//👇 Button 2 url
-global.BUTTON2_URL = ''
+// global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
+// //👇 URL button 2 name
+// global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
+// //👇 Button 1 url 
+// global.BUTTON1_URL = 'https://github.com/Telviaz/'
+// //👇 Button 2 url
+// global.BUTTON2_URL = ''
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
@@ -69,7 +69,7 @@ global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|🪄'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Africa/Nigeria'
 //👇 Removebg Api key
 global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["254792052669"]
+global.NO_BLOCK = ["2348182403749"]
 
 
 
@@ -105,9 +105,9 @@ global.NO_BLOCK = ["254792052669"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['254792052669'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['254792052669'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_GTelvin_' // Your name ඔබේ නම 
+global.pemilik = ['2348115046415'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['2348115046415', '2347068401930'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '_tunzkid_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','/'] 
 global.sp = '🔵'
